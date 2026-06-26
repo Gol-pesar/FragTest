@@ -1,0 +1,6 @@
+{
+  "name": "FragTest",
+  "description": "Manually builds, fragments, and analyzes TLS ClientHello packets to optimize bypass latency and firewall tolerance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
